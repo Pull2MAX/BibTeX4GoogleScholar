@@ -16,7 +16,7 @@
 
 
 
-`ScholarBibTeX` is a Tampermonkey user script that adds a "One-Click Copy" BibTeX button to Google Scholar search results. Click the button to automatically copy the BibTeX entry to your clipboard with confirmation. Micro popup, instant feedback, optimized performance. Say goodbye to manual copying and boost your research efficiency!
+This is a Tampermonkey user script that adds a "One-Click Copy" BibTeX button to Google Scholar search results. Click the button to automatically copy the BibTeX entry to your clipboard with confirmation. Micro popup, instant feedback, optimized performance. Say goodbye to manual copying and boost your research efficiency!
 
 **Installation:** Install the Tampermonkey or Violentmonkey extension, then install the script. Or copy the code, 和 paste it into a new Tampermonkey Script.
 
